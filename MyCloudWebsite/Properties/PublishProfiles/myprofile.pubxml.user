@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Neeraj\Projects\MyCloudService2\Deploy</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Neeraj\Projects\MyCloudService2\Deploy\website</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="ApplicationInsights.config">
@@ -325,7 +325,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/12/2017 21:25:32</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/12/2017 23:30:04</publishTime>
+      <publishTime>11/16/2017 22:26:32</publishTime>
     </File>
   </ItemGroup>
 </Project>
